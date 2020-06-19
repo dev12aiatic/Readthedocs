@@ -1,5 +1,5 @@
 A&A document 
-=============================
+============
 
 
 This is a section : GUIDE
