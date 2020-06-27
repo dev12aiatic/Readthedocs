@@ -30,6 +30,6 @@ Here is some text to explain something
 Indices and tables
 ==================
 
-* :ref:`genindex`
+* :ref:`license`
 * :ref:`modindex`
 * :ref:`search`
