@@ -20,16 +20,13 @@ Here is some text to explain something
    :maxdepth: 2
    :caption: Contents:
 
-   license
-   help
-   other
-
+   contents
 
 
 
 Indices and tables
 ==================
 
-* :ref:`license`
+
 * :ref:`modindex`
 * :ref:`search`
