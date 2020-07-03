@@ -1,5 +1,5 @@
-A&A document 
-============
+API Public Sample
+=================
 
 
 This is a section : GUIDE

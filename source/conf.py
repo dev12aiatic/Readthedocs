@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'newproject'
+project = 'API SAMPLE'
 copyright = '2020, inna'
 author = 'inna'
 
