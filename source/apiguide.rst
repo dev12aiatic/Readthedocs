@@ -1,68 +1,96 @@
-Contents
+Requests
 ========
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
-Sed maximus velit ligula, quis tristique leo efficitur sit amet. Nunc leo purus, molestie vitae tempus in, tristique sed eros. Donec maximus consequat nulla, quis pretium sem sodales ullamcorper. Pellentesque malesuada vulputate suscipit. Cras vulputate ante nec tortor gravida semper. Maecenas turpis tellus, convallis in interdum at, interdum in nisi. Morbi finibus mattis accumsan. Nam tincidunt justo a consequat cursus.
++------------------------+------------+----------+----------+
+| Header row, column 1   | Header 2   | Header 3 | Header 4 |
+| (header rows optional) |            |          |          |
++========================+============+==========+==========+
+| body row 1, column 1   | column 2   | column 3 | column 4 |
++------------------------+------------+----------+----------+
+| body row 2             | Cells may span columns.          |
++------------------------+------------+---------------------+
+| body row 3             | Cells may  | - Table cells       |
++------------------------+ span rows. | - contain           |
+| body row 4             |            | - body elements.    |
++------------------------+------------+---------------------+
+
+Responses
+=========
 
 
-Requirements
-============
++------------------------+------------+----------+----------+
+| Header row, column 1   | Header 2   | Header 3 | Header 4 |
+| (header rows optional) |            |          |          |
++========================+============+==========+==========+
+| body row 1, column 1   | column 2   | column 3 | column 4 |
++------------------------+------------+----------+----------+
+| body row 2             | Cells may span columns.          |
++------------------------+------------+---------------------+
+| body row 3             | Cells may  | - Table cells       |
++------------------------+ span rows. | - contain           |
+| body row 4             |            | - body elements.    |
++------------------------+------------+---------------------+
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
-Sed maximus velit ligula, quis tristique leo efficitur sit amet. Nunc leo purus, molestie vitae tempus in, tristique sed eros. Donec maximus consequat nulla, quis pretium sem sodales ullamcorper. Pellentesque malesuada vulputate suscipit. Cras vulputate ante nec tortor gravida semper. Maecenas turpis tellus, convallis in interdum at, interdum in nisi. Morbi finibus mattis accumsan. Nam tincidunt justo a consequat cursus.
-
-Installation
-============
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
-Sed maximus velit ligula, quis tristique leo efficitur sit amet. Nunc leo purus, molestie vitae tempus in, tristique sed eros. Donec maximus consequat nulla, quis pretium sem sodales ullamcorper. Pellentesque malesuada vulputate suscipit. Cras vulputate ante nec tortor gravida semper. Maecenas turpis tellus, convallis in interdum at, interdum in nisi. Morbi finibus mattis accumsan. Nam tincidunt justo a consequat cursus.
-
-Example
+Routers
 =======
 
-.. code-block:: python
-   :emphasize-lines: 3,5
-
-   def some_function():
-       interesting = False
-       print 'This line is highlighted.'
-       print 'This one is not...'
-       print '...but this one is.'
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
 
 
-Quickstart
+Parsers
+=======
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
+
+Caching
+=======
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
+
+
+Permissions
+===========
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
+
+
+Versioning
 ==========
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
 
-.. hlist::
-   :columns: 3
 
-   * A list of
-   * short items
-   * that should be
-   * displayed
-   * horizontally
-Development
-===========
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
-Sed maximus velit ligula, quis tristique leo efficitur sit amet. Nunc leo purus, molestie vitae tempus in, tristique sed eros. Donec maximus consequat nulla, quis pretium sem sodales ullamcorper. Pellentesque malesuada vulputate suscipit. Cras vulputate ante nec tortor gravida semper. Maecenas turpis tellus, convallis in interdum at, interdum in nisi. Morbi finibus mattis accumsan. Nam tincidunt justo a consequat cursus.
-
-Support
-=======
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
-Sed maximus velit ligula, quis tristique leo efficitur sit amet. Nunc leo purus, molestie vitae tempus in, tristique sed eros. Donec maximus consequat nulla, quis pretium sem sodales ullamcorper. Pellentesque malesuada vulputate suscipit. Cras vulputate ante nec tortor gravida semper. Maecenas turpis tellus, convallis in interdum at, interdum in nisi. Morbi finibus mattis accumsan. Nam tincidunt justo a consequat cursus.
-
-Security
+Metadata
 ========
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
-Sed maximus velit ligula, quis tristique leo efficitur sit amet. Nunc leo purus, molestie vitae tempus in, tristique sed eros. Donec maximus consequat nulla, quis pretium sem sodales ullamcorper. Pellentesque malesuada vulputate suscipit. Cras vulputate ante nec tortor gravida semper. Maecenas turpis tellus, convallis in interdum at, interdum in nisi. Morbi finibus mattis accumsan. Nam tincidunt justo a consequat cursus.
 
-Licence
+
+Exceptions
+==========
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
+
+
+Returning URLs
+==============
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
+
+
+Status codes
+============
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
+
+
+Testing
 =======
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
-Sed maximus velit ligula, quis tristique leo efficitur sit amet. Nunc leo purus, molestie vitae tempus in, tristique sed eros. Donec maximus consequat nulla, quis pretium sem sodales ullamcorper. Pellentesque malesuada vulputate suscipit. Cras vulputate ante nec tortor gravida semper. Maecenas turpis tellus, convallis in interdum at, interdum in nisi. Morbi finibus mattis accumsan. Nam tincidunt justo a consequat cursus.
+
+
+Settings
+========
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec justo sed velit aliquet mollis faucibus ut nunc. Praesent vitae tortor feugiat, molestie nunc vitae, lacinia ligula. Cras ornare magna nec ante venenatis, molestie dapibus odio pretium. Fusce at maximus neque. Suspendisse elementum vehicula ipsum ac sodales. Duis ut neque at massa cursus placerat. Aenean nisi est, dignissim et nisi sit amet, faucibus sodales ligula. Vestibulum vel ligula euismod, commodo erat eu, placerat eros.
